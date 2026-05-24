@@ -1,4 +1,5 @@
-[ logo ]
+<img width="25%" height="25%" alt="WhatsApp Image 2026-05-20 at 11 13 09" src="https://github.com/user-attachments/assets/90d88b78-2a17-4341-bded-cc6db2ef077c" />
+
 
 # Sylveon-brass
 
@@ -11,7 +12,7 @@ Um modpack focado na fusão entre automação industrial pesada, exploração de
 ## Como Instalar 
 
 <details>
-<summary> ℹ️ <b>Via CurseForge</b> </summary>
+<summary> ℹ️ <b>Via CurseForge ou modrinth</b> </summary>
 
 **1.** Pesquise por ```Sylveon brass``` Curseforge.
 
