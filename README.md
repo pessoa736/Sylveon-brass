@@ -5,7 +5,7 @@
 
 Um modpack focado na fusão entre automação industrial pesada, exploração de dimensões e a jornada Pokémon definitiva. 
 
-> **Aviso de Linha Editorial:** Este pack não tem nenhuma intenção de ser o mais balanceado ou o "melhor" modpack técnico do mundo. Ele foi criado puramente para um grupo de amigos jogarem em um servidor sem muito planejamento, apenas pela diversão e pelo caos de misturar fábricas com Pokémon.
+> **Aviso:** Este pack não tem nenhuma intenção de ser o mais balanceado ou o "melhor" modpack técnico do mundo. Ele foi criado puramente para um grupo de amigos jogarem em um servidor sem muito planejamento, apenas pela diversão e pelo caos de misturar fábricas com Pokémon.
 
 ---
 
