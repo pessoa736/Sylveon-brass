@@ -29,12 +29,16 @@ Um modpack focado na fusão entre automação industrial pesada, exploração de
   
   Para quem quer buildar o modpack direto do código-fonte usando o **Packwiz CLI**:
   
-  **1.** Clone este repositório na sua máquina:
-     ```bash
-     git clone [https://github.com/pessoa736/Sylveon-brass.git](https://github.com/pessoa736/Sylveon-brass.git)
-     ```
+  **1.** Clone este repositório na sua máquina
+   ```Bash
+     git clone https://github.com/pessoa736/Sylveon-brass.git
+   ```
      
   **2.** Certifique-se de ter o executável do ```packwiz``` instalado.
+  
+  ```Bash
+  packwiz --version
+  ```
   
   **3.** Para exportar o modpack no formato do CurseForge ou Modrinth, rode no terminal:
   ```Bash
