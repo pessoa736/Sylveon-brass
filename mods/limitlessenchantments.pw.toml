@@ -1,0 +1,13 @@
+name = "Limitless Enchantments"
+filename = "limitless-neoforge-2.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "496906ce016ac5c77a23aced39e16f1d0fbaa00f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7314462
+project-id = 1185080

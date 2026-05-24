@@ -1,0 +1,13 @@
+name = "Complete Cobblemon Collection"
+filename = "CCC_2.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c493f25d9188b93597d9442c633bb612915d391"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7757558
+project-id = 1258311

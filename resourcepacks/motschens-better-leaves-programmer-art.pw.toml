@@ -1,0 +1,13 @@
+name = "Motschen's Better Leaves (Programmer Art Edition)"
+filename = "Better-Leaves-(Programmer-Art)-9.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef4a98dafde331091f8fd263ddd91f27cb30a8d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7556680
+project-id = 1247519

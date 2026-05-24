@@ -1,0 +1,15 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"sophisticatedbackpacks:upgrade_base","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"relics:leather_belt","components":{"relics:data":{"abilities":{"abilities":{"slots":{"lock":{"breaks":5},"extender":{"cooldownCap":0,"cooldown":0,"ticking":false},"points":0,"stats":{"charm":{"initialValue":2.73278}},"research":{"links":{},"researched":false}}}},"leveling":{"level":0,"experience":7,"points":0,"luck":0}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"sophisticatedbackpacks:crafting_upgrade","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"mekanism:metallurgic_infuser"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/logistics/stock_link","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"mekanismgenerators:wind_generator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:energy_tablet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"mekanism:energized_smelter","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"mekanism:factory/basic/infusing","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"mekanism:crusher","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"mekanism:enrichment_chamber","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

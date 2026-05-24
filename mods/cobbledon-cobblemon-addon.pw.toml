@@ -1,0 +1,13 @@
+name = "CobbleDon - Cobblemon Addon"
+filename = "cobbledon-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a13c3853ff884f4da81853d72027248ab6b528a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7297234
+project-id = 1398478

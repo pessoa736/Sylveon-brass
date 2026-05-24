@@ -1,0 +1,13 @@
+name = "Effortless Building: Sophisticated (Enhanced Fork)"
+filename = "sophisticatedbuilding-neoforge-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "affbf08730aac7c86c77368c1c8401cefb450e5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8067367
+project-id = 1414718

@@ -1,0 +1,13 @@
+name = "Orimon"
+filename = "orimon-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3117d10f4e74cb269c51142de90af0a70c9e30b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6393253
+project-id = 1235139

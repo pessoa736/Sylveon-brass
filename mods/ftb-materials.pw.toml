@@ -1,0 +1,13 @@
+name = "FTB Materials"
+filename = "ftb-materials-neoforge-21.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddebaffbe18faab440552654b9b0e456c6be4afb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6831822
+project-id = 1124942

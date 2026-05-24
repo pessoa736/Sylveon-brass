@@ -1,0 +1,13 @@
+name = "Cobblemon Brendon's Bottlecaps (IV Boosters) (Cobblemon 1.6)"
+filename = "Brendon's Bottlecaps-neoforge-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "602ee12c2be5d37687864fb479c42178af6c46fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6282584
+project-id = 1203694

@@ -1,0 +1,13 @@
+name = "JDT Time Accelerators"
+filename = "jdttimeaccelerators-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "129d04ad8ebdbd9d2e259f2c9f90179c41ffea02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7986450
+project-id = 1525342

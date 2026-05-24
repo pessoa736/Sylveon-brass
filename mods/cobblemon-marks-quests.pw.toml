@@ -1,0 +1,13 @@
+name = "Cobblemon Marks Quests"
+filename = "cobblemon-marks-neoforge-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebbefd737c00d71399cee933907385b249a73c4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7669158
+project-id = 1469388

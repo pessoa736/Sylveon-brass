@@ -1,0 +1,13 @@
+name = "Aurae!"
+filename = "ambiance-neoforge-1.21-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b8022e72d51df110ffa12b4a7d6344be0ae9665"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5867824
+project-id = 1035699

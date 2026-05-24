@@ -1,0 +1,13 @@
+name = "Kreyc's Item Adventure"
+filename = "kreycs_item_adventure-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "944e2dd06a2a1bf903714300ef5ad9b158b7b510"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6626680
+project-id = 1282155

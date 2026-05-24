@@ -1,0 +1,13 @@
+name = "Cobblemon: CobbleStats"
+filename = "cobblestats-neoforge-1.9.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e61f8968da3415e26f36c12955c657340fb77bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7581127
+project-id = 1385982
