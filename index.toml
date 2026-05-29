@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "4e1ab6dbba5bcc48b77b64cfdd9c8b47c6370b50c5cd43b0982bf0760eb4fdec"
+
+[[files]]
+file = "README.md"
+hash = "b5806f000b8d68925fadbd48d764ed27f598e3e0e4308dbb2860df9e10ab44be"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
@@ -87,18 +95,6 @@ hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 [[files]]
 file = "config/advancementplaques.toml"
 hash = "439003313f744904245998eefc7a539791448a6072b168cf601149be98aff7d7"
-
-[[files]]
-file = "config/ae2-client.toml"
-hash = "44ef758c12d31f42aba3a158747a478d5c1879e8bff9700744f4238294caeb33"
-
-[[files]]
-file = "config/ae2-common.toml"
-hash = "0b13fbe2bd57729f040dc9574e6fc826b30b8bfc75da69d244440a9fdd8477c7"
-
-[[files]]
-file = "config/ae2ct-client.toml"
-hash = "9a35cd706a6eee443f4db0f0f1853f955798fb104aa53034825f74120b6a5363"
 
 [[files]]
 file = "config/aeroblender-common.toml"
@@ -1101,14 +1097,6 @@ file = "config/jei/world/server/Minecraft_Server_bcf3e9ff/lookupHistory.json"
 hash = "631c0e5df9050110bd4b1406ce15d48ae47d40c94068c5e551aafe87e97d55c3"
 
 [[files]]
-file = "config/jei_mekanism_multiblocks-client.toml"
-hash = "4c2fc76e8aaa750db4f8168d8654e3bd624c4b5a8e606948591f76058d78b868"
-
-[[files]]
-file = "config/jei_mekanism_multiblocks-saved_data.nbt"
-hash = "5e47a3a18ef7a74a988e32067021f03a036ea9049852268f44711c8a6fe0bb5e"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "6f411079b9ae2699015a6838623159d92c9eee0b52614b998abae4037f489fcd"
 
@@ -1191,10 +1179,6 @@ hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 [[files]]
 file = "config/mega_showdown/config.json"
 hash = "f5c54e5fd5fc95fdac9c5a1b29a2ad461c8c1d3191d74820117223785e4ec2a3"
-
-[[files]]
-file = "config/mekanism_unleashed-startup.toml"
-hash = "a89c9467d8275dcb95f43fce2d70cc6a44962d81a167f8334dbd966b0be527f2"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -1615,16 +1599,6 @@ hash = "925868d37e4696c59df77549f9e64207780d4655219fd5cfc0b187df302d45f8"
 metafile = true
 
 [[files]]
-file = "mods/ae2-crafting-tree.pw.toml"
-hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
-metafile = true
-
-[[files]]
-file = "mods/ae2-jei-integration.pw.toml"
-hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "59c9a1f969edd0ba1da9ba5ad6975951513225d0304a692c3d4c862e2360940c"
 metafile = true
@@ -1647,16 +1621,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
-metafile = true
-
-[[files]]
-file = "mods/applied-mekanistics.pw.toml"
-hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
 metafile = true
 
 [[files]]
@@ -1722,11 +1686,6 @@ metafile = true
 [[files]]
 file = "mods/byte.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
 metafile = true
 
 [[files]]
@@ -2330,46 +2289,6 @@ hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
 metafile = true
 
 [[files]]
-file = "mods/mekagenjei-mekanism-generator-addon.pw.toml"
-hash = "347d12ca0b98a00e5c1a85817b3cf7d1013b3855d2342aaa95abc9dab7f1e614"
-metafile = true
-
-[[files]]
-file = "mods/mekajadeupgrades.pw.toml"
-hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-additions.pw.toml"
-hash = "3b457c1c1999c8bf9d1c3b27a4982f44fc800a29889da5d8372933702882e9a0"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-pipez-fix.pw.toml"
-hash = "81096fbe61bd006ba5c87b676dc16e5a6dd77f5839055fac44e5708191a9c29d"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.pw.toml"
-hash = "2d6a6b9cef775c2baff586138fd0833595000295b645cc9813f84833c38cb415"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-unleashed.pw.toml"
-hash = "ed7741d8542b29cfb3f2dc54e342d809c9fb1a9c4f8e0ce4a5f8cf95db86884e"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "df576158442ce70c61494ba2ffb94a546bb6f55e25adabdd666b6597c7542688"
 metafile = true
@@ -2431,16 +2350,6 @@ metafile = true
 [[files]]
 file = "mods/orimon.pw.toml"
 hash = "897027c638b84755ca99b65081a165176c12cc650e68a9b71ac735303491641e"
-metafile = true
-
-[[files]]
-file = "mods/oritech-things.pw.toml"
-hash = "539caa6280e3ba680bda510e1b72eb075e9f74cb7159f9020d36ba905e01e418"
-metafile = true
-
-[[files]]
-file = "mods/oritech.pw.toml"
-hash = "df77777f16721b62b00acef9f14c720e954081459aa532dd8e2d597aafb02a81"
 metafile = true
 
 [[files]]
@@ -2778,6 +2687,14 @@ file = "options.txt"
 hash = "8003203b4458b91862d2990bc770d9b90e6fdc546e3a6d034259a722640f936d"
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
 hash = "2330fdab3ef22224eeecbc4e849bfb1bd3dd1d26b0b1e8feeb668ed7e95e4b6b"
 metafile = true
@@ -2836,3 +2753,15 @@ metafile = true
 file = "resourcepacks/torches-reimagined.pw.toml"
 hash = "fcf4a53ce9fd4d0a4e437836cfc0d0f72147f7f4a18c434ed35fac1db2e4b148"
 metafile = true
+
+[[files]]
+file = "scripts/export-client.sh"
+hash = "fefe179d22993a4957b8dbb1501ecde7f7cf287d731cc185e1858f51b94a1846"
+
+[[files]]
+file = "scripts/export-server.sh"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "scripts/update-all.sh"
+hash = "04462fea7b6ea924b37e0cb6d4dfa286a0a146e1bebd9223cae78f50807acaa5"
