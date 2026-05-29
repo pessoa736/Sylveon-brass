@@ -20,6 +20,7 @@ CLIENT_MODS=(
   "xaeros-minimap"
   "xaeros-world-map"
   "appleskin"
+  "chiselmon"
 )
 
 for mod in "${CLIENT_MODS[@]}"; do

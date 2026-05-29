@@ -1690,7 +1690,7 @@ metafile = true
 
 [[files]]
 file = "mods/chiselmon.pw.toml"
-hash = "764e557e512e95479080e43783b882fb312e6a13f16f7c97d7e9452f4492da53"
+hash = "0c28bd98b5ab68ba97ea8852a56f25c078012f7e90da3445dbe0982f8b9efb32"
 metafile = true
 
 [[files]]
@@ -2759,7 +2759,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "scripts/fix-mods-to-client.sh"
-hash = "2738b1bd7f0f22970f53a97c1122cd18cb370af95e991dcc4ebc0fda623815f6"
+hash = "b7a74e0223c7c2b08223594cd9abb1ffeb8c8093d3af48fa24c079f53c861485"
 
 [[files]]
 file = "scripts/update-all.sh"
