@@ -1,13 +1,13 @@
 name = "MES - Moog's End Structures"
-filename = "MoogsEndStructures-1.21-2.0.2.jar"
+filename = "MoogsEndStructures-1.21-2.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "746eea80e0df09b873f3e9b3883d8cbf889b0912"
+hash = "8725f8fa38ab3f3fd6e8627bf2f8f7f908ec2e51"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8038016
+file-id = 8128039
 project-id = 892382
