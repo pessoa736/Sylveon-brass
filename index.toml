@@ -2348,11 +2348,6 @@ hash = "ba499b5bac6d611c3f386b756ab618f9fabf4742c2563b8e8135118ea9f75111"
 metafile = true
 
 [[files]]
-file = "mods/orimon.pw.toml"
-hash = "897027c638b84755ca99b65081a165176c12cc650e68a9b71ac735303491641e"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
