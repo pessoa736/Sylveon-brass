@@ -1,0 +1,13 @@
+name = "Armored Foes"
+filename = "ArmoredFoes-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b67474f98fd14110cbcefd406b18e05def36b63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8122244
+project-id = 1369926

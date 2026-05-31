@@ -1,0 +1,13 @@
+name = "Sword Blocking Mechanics"
+filename = "SwordBlockingMechanics-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b94495f0aabb90c66406af0be34ef7dab60135a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6043989
+project-id = 969424

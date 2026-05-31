@@ -1,0 +1,13 @@
+name = "Create: Backpack Pixel"
+filename = "backpack_pixel-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "503a38c404cb4858655743b8ee08bb0585116fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7522062
+project-id = 1217247

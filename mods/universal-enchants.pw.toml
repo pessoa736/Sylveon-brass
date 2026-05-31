@@ -1,0 +1,13 @@
+name = "Universal Enchants"
+filename = "UniversalEnchants-v21.1.6-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54ab65d697b416278f0abf716a71fd18652af128"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6790331
+project-id = 593958

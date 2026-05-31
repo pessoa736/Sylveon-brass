@@ -1,0 +1,13 @@
+name = "Enchantment Switch"
+filename = "EnchantmentSwitch-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae16377a6946e29bc5ba36f67122c54e536577d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7129469
+project-id = 1368895

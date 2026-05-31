@@ -1,0 +1,30 @@
+sodium 0.6.13+mc1.21.1
+irisshaders
+entityculling
+immediatelyfast
+dynamiclights-reforged 1.0.10-1.21.1
+reeses-sodium-options 1.8.3+mc1.21.1
+sodium-extra 0.6.0+mc1.21.1
+sodium-options-api 1.0.10-1.21.1
+controlling
+item-borders
+item-highlighter
+just-zoom
+legendary-tooltips
+mouse-tweaks
+chiselmon
+badoptimizations
+advancement-plaques
+chiselmon
+enchantment-descriptions
+fix-gpu-memory-leak
+flerovium 1.21.1-1.0.18
+immersive-ui
+irisshaders
+item-borders
+item-highlighter
+just-zoom
+legendary-tooltips
+pick-up-notifier
+searchables
+resource-pack-overrides
