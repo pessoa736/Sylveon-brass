@@ -1,6 +1,6 @@
 name = "Fast Leaf Decay"
 filename = "fastleafdecay-35.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

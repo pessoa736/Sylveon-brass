@@ -1,0 +1,13 @@
+name = "Sodium/Embeddium Device Check"
+filename = "sodium-device-check-neoforge-4.2.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eac1ba19ca3bcfb876ca58eaa046c99a78e6515f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820167
+project-id = 1214954

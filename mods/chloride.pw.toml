@@ -1,0 +1,13 @@
+name = "Chloride (Previously Embeddium++/Sodium++)"
+filename = "chloride-NEOFORGE-mc1.21.1-v1.7.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e391fa16cc2f52dfc0981b05f9eed327467dbf00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8179136
+project-id = 931925

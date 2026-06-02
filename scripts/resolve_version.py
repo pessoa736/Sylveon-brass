@@ -59,17 +59,17 @@ def try_modrinth_search():
         pass
     return None, None
 
+cf_pid, cf_fid = try_curseforge()
+if cf_pid and cf_fid:
+    print(f"CF {cf_pid} {cf_fid}")
+    sys.exit(0)
+
 mr_pid, mr_vid = try_modrinth()
 if not mr_pid:
     mr_pid, mr_vid = try_modrinth_search()
 
 if mr_pid and mr_vid:
     print(f"MR {mr_pid} {mr_vid}")
-    sys.exit(0)
-
-cf_pid, cf_fid = try_curseforge()
-if cf_pid and cf_fid:
-    print(f"CF {cf_pid} {cf_fid}")
     sys.exit(0)
 
 sys.exit(1)

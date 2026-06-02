@@ -3,11 +3,11 @@ filename = "createaddition-1.5.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/3ptU8Nq9/createaddition-1.5.11.jar"
-hash-format = "sha512"
-hash = "3a5066223ea6b583cc0bbe9f2bb0adbe7d7ff90625291f483a0f4bb1df3d6c5da1dfd3cfcfec4e9d90eebc4732328c64127e835f96dfe29016642728e21c1b97"
+hash-format = "sha1"
+hash = "455dc8907be32193a89a34b98a1e24a08e8b65a1"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kU1G12Nn"
-version = "3ptU8Nq9"
+[update.curseforge]
+file-id = 8083378
+project-id = 439890

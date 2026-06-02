@@ -1,0 +1,13 @@
+name = "Cobblemon Villager overhaul  - [ADDON]"
+filename = "cobbledollars-villagers-overhaul-rca-neoforge-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe63a8bef64bed5034811c453db56ebaa5484ba9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8151323
+project-id = 1457672

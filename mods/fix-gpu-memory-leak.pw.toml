@@ -1,6 +1,6 @@
 name = "fix GPU memory leak[Forge/Fabric]"
 filename = "gpumemleakfix-1.21-1.8.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

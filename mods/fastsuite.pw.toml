@@ -1,6 +1,6 @@
 name = "FastSuite"
 filename = "FastSuite-1.21.1-6.0.7.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

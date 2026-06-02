@@ -10,7 +10,6 @@ terralith
 --addon-id 936015
 tectonic
 alltheleaks
-yung-structures-addon-for-loot-integrations
 yungs-api-neoforge
 yungs-better-caves
 yungs-better-desert-temples-neoforge
@@ -215,7 +214,4 @@ interiors
 create-ultimate-factory
 create-trading-floor
 create-ender-transmission
-loot-integrations
-https://www.curseforge.com/minecraft/mc-mods/loot-integrations
---addon-id 580689
 reliquified-artifacts

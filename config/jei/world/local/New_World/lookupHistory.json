@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"magic_coins:silver_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"minecraft:zombified_piglin","type":"twilightforest.compat.jei.FakeEntityType","bookmarkType":"INGREDIENT"},
+  {"ingredient":"minecraft:piglin","type":"twilightforest.compat.jei.FakeEntityType","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:zombified_piglin_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"spartan_weaponry_unofficial:zombified_piglin_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"twilightforest:zombie_skull_candle","components":{"twilightforest:skull_candles":{"color":0,"count":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:zombie_villager_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:zombie_horse_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:zombie_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:redstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"refinedstorage:64k_storage_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_acacia_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
