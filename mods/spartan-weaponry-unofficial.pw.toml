@@ -1,13 +1,13 @@
 name = "Spartan Weaponry Unofficial"
-filename = "spartan_weaponry_unofficial-1.1.2-1.21.1.jar"
+filename = "spartan_weaponry_unofficial-1.2.0-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "234795dc9827b179728d3b5cfb108e3ef8ffda04"
+hash = "d42ebb67df881b4235af53aef209a3b9764eea8e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8158638
+file-id = 8187016
 project-id = 1450963

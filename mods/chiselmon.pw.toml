@@ -1,6 +1,6 @@
 name = "Chiselmon - Cobblemon QOL"
 filename = "Chiselmon-neoforge-1.3.0-beta-hotfix2+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

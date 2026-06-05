@@ -1,0 +1,13 @@
+name = "Medieval Buildings - New Structures!"
+filename = "medieval_buildings-1.21.1-1.1.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a2214e95eb318ad64b3b3faf2cad036459ffc17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6952841
+project-id = 924590

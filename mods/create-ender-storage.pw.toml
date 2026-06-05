@@ -1,0 +1,13 @@
+name = "Create Ender Storage"
+filename = "createenderstorage-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdb7ccb8534674a7006cb99df5fd78e09de8a184"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6869621
+project-id = 1322998
