@@ -2150,10 +2150,6 @@ hash = "4e8c434ff36cfaa5575a476848e233ea656d5dda5b15029f47683d945959085b"
 metafile = true
 
 [[files]]
-file = "manifest.json"
-hash = "2aa9b98dada10cc8e73a2958221ed883e3d336e96abebb43cb82cc158167a91e"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
