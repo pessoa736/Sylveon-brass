@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configurações do seu pacote
-RAM_RECOMENDADA=8192
+RAM_RECOMENDADA=6144
 
 echo "📦 Executando a exportação padrão do packwiz..."
 packwiz curseforge export
