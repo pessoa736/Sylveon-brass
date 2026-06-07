@@ -1,6 +1,7 @@
 name = "Sodium/Embeddium Device Check"
 filename = "sodium-device-check-neoforge-4.2.9.1.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

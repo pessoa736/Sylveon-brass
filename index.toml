@@ -2150,6 +2150,10 @@ hash = "4e8c434ff36cfaa5575a476848e233ea656d5dda5b15029f47683d945959085b"
 metafile = true
 
 [[files]]
+file = "manifest.json"
+hash = "2aa9b98dada10cc8e73a2958221ed883e3d336e96abebb43cb82cc158167a91e"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
@@ -2956,7 +2960,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "fd2fec912621f573fbf6c35dc7a6ecd0547aa6d95863997ab4232d09595c6097"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 metafile = true
 
 [[files]]
@@ -3046,6 +3050,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
+metafile = true
+
+[[files]]
+file = "mods/more-relics.pw.toml"
+hash = "975620438c0e4d73c40b623a3372da50a4454f6ddd2b051cebe6c630567925c8"
 metafile = true
 
 [[files]]
@@ -3185,7 +3194,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
+hash = "229dd1b52cbb0089a74e43904f2cdfd61046465c7f98b2a61d6e583daa47609a"
 metafile = true
 
 [[files]]
@@ -3229,38 +3238,33 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "422492cb86259f13b74f4db9126de9c03d1a6264a92c7c9f09d7a5a315ad61da"
-metafile = true
-
-[[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
 metafile = true
 
 [[files]]
 file = "mods/sodium-device-check.pw.toml"
-hash = "c2325ac4abe7ede277aa86bb74b53f7951d04796d880540b860c0170559a41ab"
+hash = "1a2844d6d559aaf279c2bb4fffda51af76e5b227d7d71ca1c4a5dea11d7f24d5"
 metafile = true
 
 [[files]]
 file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
-hash = "94e32fccda566bfc579aea3c4a05bee9cab7cacb06c5d22ae526a5931e88d06a"
+hash = "44322c2c3d2bf353a8a29388407127a21d645f114d1750c5f8950ea8726772a8"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "03d264a85c6b6fd0f011c958caf94a3238931fdd48c5c156ddb6e13fc16ce601"
+hash = "030f65aa97989a92ee1fd65e04e51250cb77339f0de8f87a43392063a66f1316"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "40e1fdc8c58f72bb947b978a773cf963b2d28bb49832500c2bd886f7ac6629bb"
+hash = "5a289b0cbaa55491c33f11654160c78da46eb4b4dc704818b888644671e51044"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
+hash = "da10c5a5d2ec6a3b3fff7f74936ae34f4a1f17fdd3780998c2a31d579d352e8f"
 metafile = true
 
 [[files]]
@@ -3475,7 +3479,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8003203b4458b91862d2990bc770d9b90e6fdc546e3a6d034259a722640f936d"
+hash = "90f61eecf964957685601e8de67ff2fe2a7b5e763948063f0d88d8bda316e030"
 
 [[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
