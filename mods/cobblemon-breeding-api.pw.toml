@@ -1,0 +1,13 @@
+name = "Cobblemon Breeding API"
+filename = "cobblemon-breeding-api-neoforge-0.1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "993499d0b01cbc0e843162e53bf20617cdf00f14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7650813
+project-id = 1466797

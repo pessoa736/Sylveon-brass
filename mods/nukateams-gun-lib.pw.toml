@@ -1,0 +1,13 @@
+name = "[NTGL] NukaTeam's Gun Lib"
+filename = "ntgl-1.21.1-3.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a88af41462ba8ead362cfd427f3e12173f309442"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8095107
+project-id = 998474

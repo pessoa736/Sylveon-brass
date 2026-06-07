@@ -1,6 +1,6 @@
 name = "NetherPortalFix"
 filename = "netherportalfix-neoforge-1.21.1-21.1.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

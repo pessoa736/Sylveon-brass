@@ -1,0 +1,13 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:rotation_speed_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/kinetics/deployer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/depot","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/belt_connector","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"sophisticatedbackpacks:backpack","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/wrench","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/gearshift","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/white_sail","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"simulated:red_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:brass_tunnel"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

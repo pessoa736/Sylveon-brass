@@ -138,53 +138,53 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:parrot": true
-			"minecraft:chicken": true
-			"minecraft:witch": true
 			"minecraft:tropical_fish": false
 			"minecraft:fox": true
-			"minecraft:sheep": true
-			"minecraft:glow_squid": true
-			"minecraft:enderman": true
-			"mekanismadditions:baby_skeleton": true
-			"minecraft:cow": true
-			"minecraft:axolotl": true
-			"minecraft:pufferfish": false
-			"minecraft:wandering_trader": true
 			"quark:crab": true
-			"cobblemon:pokemon": true
-			"minecraft:drowned": true
-			"minecraft:wolf": true
-			"minecraft:polar_bear": true
-			"minecraft:cod": false
-			"minecraft:bee": true
-			"artifacts:mimic": true
-			"minecraft:villager": true
-			"mekanismadditions:baby_stray": true
-			"minecraft:spider": true
-			"minecraft:creeper": true
-			"quark:forgotten": true
-			"minecraft:guardian": true
-			"minecraft:stray": true
-			"minecraft:salmon": false
-			"mekanismadditions:baby_enderman": true
-			"minecraft:horse": true
-			"minecraft:trader_llama": true
-			"quark:stoneling": true
-			"minecraft:dolphin": true
-			"minecraft:pig": true
-			"minecraft:mooshroom": true
-			"yungscavebiomes:ice_cube": true
-			"minecraft:zombie_villager": true
-			"quark:toretoise": true
 			"minecraft:cave_spider": true
-			"mekanismadditions:baby_creeper": true
-			"minecraft:bat": true
-			"minecraft:rabbit": true
 			"minecraft:squid": true
-			"minecraft:turtle": true
-			"minecraft:zombie": true
+			"minecraft:witch": true
+			"yungscavebiomes:ice_cube": true
+			"minecraft:wandering_trader": true
+			"minecraft:bee": true
+			"mekanismadditions:baby_stray": true
+			"minecraft:zombie_villager": true
+			"minecraft:pufferfish": false
+			"minecraft:parrot": true
+			"mekanismadditions:baby_creeper": true
 			"minecraft:skeleton": true
+			"minecraft:guardian": true
+			"artifacts:mimic": true
+			"minecraft:cod": false
+			"minecraft:chicken": true
+			"cobblemon:pokemon": true
+			"minecraft:pig": true
+			"minecraft:bat": true
+			"minecraft:villager": true
+			"minecraft:drowned": true
+			"mekanismadditions:baby_skeleton": true
+			"minecraft:enderman": true
+			"minecraft:stray": true
+			"mekanismadditions:baby_enderman": true
+			"quark:forgotten": true
+			"quark:stoneling": true
+			"minecraft:polar_bear": true
+			"minecraft:turtle": true
+			"quark:toretoise": true
+			"minecraft:rabbit": true
+			"minecraft:trader_llama": true
+			"minecraft:sheep": true
+			"minecraft:axolotl": true
+			"minecraft:cow": true
+			"minecraft:horse": true
+			"minecraft:spider": true
+			"minecraft:dolphin": true
+			"minecraft:creeper": true
+			"minecraft:zombie": true
+			"minecraft:glow_squid": true
+			"minecraft:salmon": false
+			"minecraft:wolf": true
+			"minecraft:mooshroom": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

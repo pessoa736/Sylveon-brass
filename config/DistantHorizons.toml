@@ -8,7 +8,7 @@ _version = 4
 		[client.advanced.graphics]
 			#
 			# Enable Screen Space Ambient Occlusion
-			enableSsao = false
+			enableSsao = true
 			#
 			# If true some vanilla graphics settings will be automatically changed 
 			# during DH setup to provide a better experience. 
@@ -20,12 +20,12 @@ _version = 4
 			[client.advanced.graphics.quality]
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 32
+				lodChunkRenderDistanceRadius = 96
 				#
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "LOWEST"
+				horizontalQuality = "MEDIUM"
 				#
 				# What is the maximum detail LODs should be drawn at? 
 				# Higher settings will increase memory and GPU usage. 
@@ -38,7 +38,7 @@ _version = 4
 				# 
 				# Lowest Quality: CHUNK
 				# Highest Quality: BLOCK
-				maxHorizontalResolution = "TWO_BLOCKS"
+				maxHorizontalResolution = "BLOCK"
 				#
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
@@ -46,14 +46,14 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "HEIGHT_MAP"
+				verticalQuality = "MEDIUM"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# FAKE: LODs will be opaque, but shaded to match the blocks underneath. 
 				# DISABLED: LODs will be opaque.
-				transparency = "DISABLED"
+				transparency = "COMPLETE"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -85,18 +85,18 @@ _version = 4
 				# If true LODs will fade away as you get closer to them. 
 				# If false LODs will cut off abruptly at a set distance from the camera. 
 				# This setting is affected by the vanilla overdraw prevention config.
-				ditherDhFade = false
+				ditherDhFade = true
 				#
 				# How should vanilla Minecraft fade into Distant Horizons LODs? 
 				# 
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "NONE"
+				vanillaFadeMode = "DOUBLE_PASS"
 				#
 				# Should DH fade out before reaching the far clip plane? 
 				# This is helpful to prevent DH clouds from cutting off in the distance.
-				dhFadeFarClipPlane = false
+				dhFadeFarClipPlane = true
 				#
 				# How bright LOD colors are. 
 				# 
@@ -118,7 +118,7 @@ _version = 4
 				#     '0' equals to Vanilla Biome Blending of '1x1' or 'OFF', 
 				#     '1' equals to Vanilla Biome Blending of '3x3', 
 				#     '2' equals to Vanilla Biome Blending of '5x5'...
-				lodBiomeBlending = 0
+				lodBiomeBlending = 3
 
 			[client.advanced.graphics.genericRendering]
 				#
@@ -138,7 +138,7 @@ _version = 4
 				expandDistantBeacons = true
 				#
 				# If true LOD clouds will be rendered.
-				enableCloudRendering = false
+				enableCloudRendering = true
 				#
 				# A comma separated separated list of dimension resource locations where DH clouds will render.
 				# 
@@ -568,7 +568,7 @@ _version = 4
 		#  outside the vanilla render distance? 
 		# Depending on the generator mode, this will import existing chunks 
 		# and/or generating missing chunks.
-		enableDistantGeneration = false
+		enableDistantGeneration = true
 		#
 		# How detailed should LODs be generated outside the vanilla render distance? 
 		# 
@@ -673,7 +673,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 2
+		numberOfThreads = 6
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -681,7 +681,7 @@ _version = 4
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		threadRunTimeRatio = "0.5"
+		threadRunTimeRatio = "1.0"
 		#
 		# What Java thread priority should DH's primary thread pools run with? 
 		# 
@@ -789,7 +789,7 @@ _version = 4
 	# When enabled, Distant Horizons will attempt to download missing LODs from the server.
 	# 
 	# Note: the server must have Distant Generation enabled for it to work.
-	enableServerGeneration = false
+	enableServerGeneration = true
 	#
 	# How many LOD generation requests per second should a client send? 
 	# Also limits the number of client requests allowed to stay in the server's queue.

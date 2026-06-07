@@ -1,13 +1,13 @@
 name = "Sylveon Brass"
 author = "xpudding736"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9fde348918406684bb7ac3050d6b3ab99c29671c0df5a29a131b06a6cf4df209"
+hash = "0954c322b24fde019e5c890f6ad82a4dc7ab3c83ada4bb48c429cce2427d1eff"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.230"
+neoforge = "21.1.233"

@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "apothic_spawners": {
+    "spawner": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -59,11 +62,11 @@
     "entity": true,
     "entity_variant": true
   },
+  "cobblemonraiddens": {
+    "raid_crystal": true
+  },
   "ftbquests": {
     "barrier": true
-  },
-  "mekajadeupgrade": {
-    "upgrades": true
   },
   "chiselmon": {
     "pokemon_entity.catch_rate": true,
@@ -91,36 +94,24 @@
     "block_properties": false,
     "mod_name": true
   },
-  "extendedae": {
-    "jade_chamber": true,
-    "jade_wireless": true
+  "apotheosis": {
+    "adventure": true
+  },
+  "apothic_enchanting": {
+    "ench": true
   },
   "balm": {
     "jade": true
-  },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
   },
   "justdynathings": {
     "paradox_mixer": true,
     "stabilizer": true,
     "echoing_budding": true
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
   },
   "easy_villagers": {
     "villager": true,

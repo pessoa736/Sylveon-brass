@@ -1,0 +1,13 @@
+name = "Cobblemon Add-on: Mega Showdown Ores"
+filename = "megashowdownores-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "255c5592797c7c8deb201c4a942683b99b8d3924"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7718418
+project-id = 1455268

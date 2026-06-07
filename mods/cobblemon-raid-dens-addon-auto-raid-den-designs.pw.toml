@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Dens Addon - Auto Raid Den Designs"
+filename = "DesignerRaid-neoforge-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef1ba1b79cd2fe0fe360045cfd9620cfccf7706f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8189474
+project-id = 1553404
