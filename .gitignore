@@ -2,3 +2,6 @@
 *.zip
 
 build/*
+
+# Personal Copilot context — local only, do not commit
+.github/copilot-personal.md
