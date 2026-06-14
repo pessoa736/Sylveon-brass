@@ -1,5 +1,4 @@
 sodium 0.6.13+mc1.21.1
-irisshaders
 entityculling
 immediatelyfast
 dynamiclights-reforged 1.0.10-1.21.1
@@ -15,16 +14,11 @@ mouse-tweaks
 chiselmon
 badoptimizations
 advancement-plaques
-chiselmon
 enchantment-descriptions
 fix-gpu-memory-leak
 flerovium 1.21.1-1.0.18
 immersive-ui
 irisshaders
-item-borders
-item-highlighter
-just-zoom
-legendary-tooltips
 pick-up-notifier
 searchables
 resource-pack-overrides

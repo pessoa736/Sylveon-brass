@@ -215,3 +215,4 @@ create-ultimate-factory
 create-trading-floor
 create-ender-transmission
 reliquified-artifacts
+loot-integrations

@@ -5,6 +5,5 @@ fast-leaf-decay
 fastfurnace
 fastsuite
 https://www.curseforge.com/minecraft/mc-mods/let-me-despawn
-loot-integrations
 netherportalfix
 universal-enchants
