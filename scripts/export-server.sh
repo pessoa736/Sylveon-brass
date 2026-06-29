@@ -5,7 +5,7 @@
 
 set -e
 
-RAM_RECOMENDADA=4096  # servidor costuma precisar de menos RAM que o client
+RAM_RECOMENDADA=8192  # servidor costuma precisar de menos RAM que o client
 
 echo "📦 Executando a exportação SERVER do packwiz (side=server)..."
 packwiz curseforge export -s server
@@ -17,7 +17,11 @@ if [ -z "$OUTPUT_ZIP" ] || [ ! -f "$OUTPUT_ZIP" ]; then
     echo "❌ Erro: Nenhum arquivo ZIP começando com 'Sylveon' foi encontrado na pasta atual."
     exit 1
 fi
-
+# 🏷️ Renomeia o ZIP para o formato Sylveon-Brass-{VERSÃO}-{SIDE}.zip
+PACK_VERSION=$(grep '^version' ../pack.toml | head -n 1 | cut -d '"' -f 2)
+NEW_ZIP="Sylveon-Brass-${PACK_VERSION}-server.zip"
+mv "$OUTPUT_ZIP" "$NEW_ZIP"
+OUTPUT_ZIP="$NEW_ZIP"
 echo "📂 Arquivo encontrado: $OUTPUT_ZIP"
 echo "🔧 Injetando a configuração de RAM ($RAM_RECOMENDADA MB) no manifest.json..."
 

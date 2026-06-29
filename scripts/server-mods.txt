@@ -1,9 +1,7 @@
-
-skinrestorer
 fast-async-world-save-forge-fabric
 fast-leaf-decay
 fastfurnace
 fastsuite
-https://www.curseforge.com/minecraft/mc-mods/let-me-despawn
 netherportalfix
+skinrestorer
 universal-enchants
