@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "4e1ab6dbba5bcc48b77b64cfdd9c8b47c6370b50c5cd43b0982bf0760eb4fdec"
+file = ".github/copilot-instructions.md"
+hash = "417e4e2d3ce7cb8cc072c61392d7e52ccec409baf294c2fbd3ca4af058b9446c"
 
 [[files]]
-file = "README.md"
-hash = "b5806f000b8d68925fadbd48d764ed27f598e3e0e4308dbb2860df9e10ab44be"
+file = ".github/copilot-personal.md"
+hash = "1d98a94b12c82073381c4ec8dc3ada565426a4043627a731b76a0d1284a2ffa9"
+
+[[files]]
+file = "LICENSE"
+hash = "4e1ab6dbba5bcc48b77b64cfdd9c8b47c6370b50c5cd43b0982bf0760eb4fdec"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -831,10 +835,6 @@ hash = "f8e26cfe44eb0e6d4d084b9a2af90f5028da034becee64b6ddfd50cdfd5c7fe1"
 [[files]]
 file = "config/crash_assistant/config.toml"
 hash = "8e168b06315508c2f63fe53c5de84269b417263d0732b6dca0c77f48fc982bae"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
@@ -2143,11 +2143,6 @@ hash = "d4a971fb1d9818c66f25e1132c520a93bf0b94410690b8d72475a46d7f34e912"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
-
-[[files]]
-file = "create-aeronautics.pw.toml"
-hash = "4e8c434ff36cfaa5575a476848e233ea656d5dda5b15029f47683d945959085b"
-metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"

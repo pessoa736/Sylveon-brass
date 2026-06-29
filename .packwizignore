@@ -4,6 +4,7 @@ scripts/
 build/
 
 .packwizignore
+README.md
 
 *.zip
 *.jar

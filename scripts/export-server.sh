@@ -1,10 +1,14 @@
 #!/bin/bash
 
-# Configurações do seu pacote
-RAM_RECOMENDADA=6144
+# Exporta o modpack para distribuição SERVER (sem mods client-only).
+# Gera um .zip pronto pra subir na CurseForge/Modrinth como server pack.
 
-echo "📦 Executando a exportação padrão do packwiz..."
-packwiz curseforge export
+set -e
+
+RAM_RECOMENDADA=8192  # servidor costuma precisar de menos RAM que o client
+
+echo "📦 Executando a exportação SERVER do packwiz (side=server)..."
+packwiz curseforge export -s server
 
 # 🔍 Descobre automaticamente o nome exato do arquivo ZIP gerado que começa com "Sylveon"
 OUTPUT_ZIP=$(ls Sylveon*.zip 2>/dev/null | head -n 1)
@@ -15,7 +19,7 @@ if [ -z "$OUTPUT_ZIP" ] || [ ! -f "$OUTPUT_ZIP" ]; then
 fi
 # 🏷️ Renomeia o ZIP para o formato Sylveon-Brass-{VERSÃO}-{SIDE}.zip
 PACK_VERSION=$(grep '^version' ../pack.toml | head -n 1 | cut -d '"' -f 2)
-NEW_ZIP="Sylveon-Brass-${PACK_VERSION}-client.zip"
+NEW_ZIP="Sylveon-Brass-${PACK_VERSION}-server.zip"
 mv "$OUTPUT_ZIP" "$NEW_ZIP"
 OUTPUT_ZIP="$NEW_ZIP"
 echo "📂 Arquivo encontrado: $OUTPUT_ZIP"
@@ -41,4 +45,4 @@ rm manifest.json
 # Volta para a pasta anterior para finalizar o processo de forma limpa
 cd ..
 
-echo "✅ Sucesso! O arquivo build/$OUTPUT_ZIP está pronto para o CurseForge com 8GB de RAM."
+echo "✅ Sucesso! O arquivo build/$OUTPUT_ZIP está pronto para o servidor com ${RAM_RECOMENDADA}MB de RAM."

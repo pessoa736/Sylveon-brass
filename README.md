@@ -1,4 +1,4 @@
-<img width="25%" height="25%" alt="WhatsApp Image 2026-05-20 at 11 13 09" src="https://github.com/user-attachments/assets/90d88b78-2a17-4341-bded-cc6db2ef077c" />
+<img width="25%" height="25%" alt="WhatsApp Image 2026-05-20 at 11 13 09" src="docs/thumbnail.png" />
 
 
 # Sylveon-brass
